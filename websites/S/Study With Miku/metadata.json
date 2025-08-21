@@ -1,0 +1,19 @@
+{
+  "$schema": "https://schemas.premid.app/metadata/1.15",
+  "apiVersion": 1,
+  "author": {
+    "id": "644265589367373837",
+    "name": "Likver"
+  },
+  "service": "Study With Miku",
+  "description": {
+    "en": "Simple presence for when your studying with Miku ^^"
+  },
+  "url": ["studymiku.cloudflare.wenqi.icu","studymiku.wenqi.icu"],
+  "version": "1.0.0",
+  "logo": "https://i.imgur.com/DYR1VlB.png",
+  "thumbnail": "https://i.imgur.com/8Lxhm1f.png",
+  "color": "#00ffe1",
+  "category": "music",
+  "tags": ["music","lofi","study","anime"]
+}
